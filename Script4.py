@@ -8,7 +8,7 @@ import google.generativeai as genai
 from google.colab import userdata
 import os
 
-GOOGLE_API_KEY = "AIzaSyCbrZb34FBq3RXizIA9M9CPA7rre_PpX2A"
+GOOGLE_API_KEY = ".............."
 genai.configure(api_key=GOOGLE_API_KEY)
 
 def translate_text_gemini(prompt):
